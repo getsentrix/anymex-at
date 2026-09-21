@@ -29,6 +29,12 @@ https://getsentrix.github.io/anymex-at/apps.json
 4. Paste the URL: `https://getsentrix.github.io/anymex-at/apps.json`
 5. Tap **Add**. AnymeX will now appear in your browse/source list with automatic update notifications!
 
+### LiveContainer
+1. Open **LiveContainer**.
+2. Go to the **Sources** tab.
+3. Tap **+** and paste: `https://getsentrix.github.io/anymex-at/apps.json`
+*(Or tap "Add to LiveContainer" directly from the [web page](https://getsentrix.github.io/anymex-at/))*
+
 ### Feather / ESign / Scarlet
 1. Open the app and go to **Sources / Repositories**.
 2. Tap **Add Source**.
